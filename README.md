@@ -6,6 +6,8 @@ This is a repository for TT Sprint 17 Project forecasting customer churn for a t
 - The model was built and tested on the Jupyter platform using Python language coding.
 - The model was developed and tested by the data science student, and reviewed by a project reviewer.
 
+This project uses customer data available here: https://practicum-content.s3.us-west-1.amazonaws.com/data-eng/datasets/final_provider.zip
+
 To run the program, Python 3 (3.11.5) was used with the following libraries: pandas, numpy, matplotlib, sklearn, lightgbm.
 
 To launch this project on a local machine, the data set should be accessible in the project folder, and python lanched with the above listed packages installed. 
